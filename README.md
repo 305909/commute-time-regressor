@@ -7,7 +7,7 @@
 ###### Politecnico di Torino
 
 ## Reference Paper
-- [The Data Didn’t Care About Income: A Story About Commutes and What We Think We Know](https://github.com/305909/commute-time-regressor/blob/main/docs/commute-time-regressor-ACM.pdf)
+- [The Data Didn’t Care About Income: A Story About Commutes and What We Think We Know](https://github.com/sencosx/commute-time-regressor/blob/main/docs/commute-time-regressor-ACM.pdf)
 
 ---
 
@@ -35,7 +35,7 @@ Play time starts here.
 1. Fire this up in your notebook:
 
 ```python
-!git clone https://github.com/305909/commute-time-regressor.git
+!git clone https://github.com/sencosx/commute-time-regressor.git
 ```
 
 2. Run the regressor and see what happens:
